@@ -1,14 +1,12 @@
 # Airbnb Customer Segmentation and Behavior Analysis
 
-## Project Overview
+![image](https://github.com/DeandraShae/Airbnb-Analysis-Project/assets/144077177/adf861b6-52ea-4aa1-8b6d-16ef6ecb37b8)
 
-**Objective:** Segment Airbnb customers based on their booking habits and preferences.
-
-# Airbnb Customer Segmentation and Behavior Analysis
 
 ## Project Overview
 
-**Objective:** Segment Airbnb customers based on their booking habits and preferences.
+**Objective:** Segment Airbnb customers based on their booking habits and preferences. 
+
 
 **Goal:** Develop targeted marketing strategies for each segment to enhance booking rates and customer satisfaction.
 
@@ -32,7 +30,8 @@ Future projects will focus on deeper model construction, feature engineering, an
 ## Structure
 
 - **data/**: Contains raw and cleaned datasets.
-- **notebooks/**: Jupyter notebook for the entire analysis.
+- **notebooks/**: [Google Colab Notebook of Full Analysis](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Project.ipynb)
+
 - **images/**: Generated plots and graphs.
 - **README.md**: Project overview and instructions.
 - **requirements.txt**: List of dependencies.
