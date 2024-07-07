@@ -29,17 +29,6 @@ Future projects will focus on deeper model construction, feature engineering, an
 
 ## Structure
 
-- **data/**: Contains raw and cleaned datasets.
+- **data/**: [Airbnb_Cleaned_Data.zip](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Cleaned_Data.zip)
 - **notebooks/**: [Google Colab Notebook of Full Analysis](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Project.ipynb)
-
-- **images/**: Generated plots and graphs.
 - **README.md**: Project overview and instructions.
-- **requirements.txt**: List of dependencies.
-- **LICENSE**: Project license.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DeandraShae/Airbnb-Analysis-Project.git
-   cd Airbnb-Analysis-Project
