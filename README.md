@@ -29,6 +29,6 @@ Future projects will focus on deeper model construction, feature engineering, an
 
 ## Structure
 
-- **data/**: [Airbnb_Cleaned_Data.zip](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Cleaned_Data.zip)
+- **data/**: [Airbnb Cleaned Data](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Cleaned_Data.zip)
 - **notebooks/**: [Google Colab Notebook of Full Analysis](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Project.ipynb)
 - **README.md**: Project overview and instructions.
