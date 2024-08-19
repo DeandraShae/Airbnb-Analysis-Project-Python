@@ -1,3 +1,4 @@
+![image](https://github.com/DeandraShae/Airbnb-Analysis-Project/assets/144077177/adf861b6-52ea-4aa1-8b6d-16ef6ecb37b8)
 # **Project Overview**
 
 **Objective:** Segment Airbnb customers based on their booking habits and preferences.
