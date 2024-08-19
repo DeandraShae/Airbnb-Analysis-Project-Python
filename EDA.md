@@ -35,7 +35,7 @@
   - Lower-priced listings (purple) are more evenly distributed but still show some clustering.
 
 ![Geographic Visualization](https://miro.medium.com/v2/resize:fit:560/0*6c9c3aXU6bect5X_)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9bd70a48-8bed-4609-bbeb-250f31d9d2aa/8d583a5e-3b1f-4474-8200-4eec46ddba6f/Untitled.png)
+![Geographic Visualization](https://miro.medium.com/v2/format:webp/0*pvzRamPUxLnaWn1X)
 
 **Interpretation:** The plot highlights that higher-priced listings are predominantly in central areas, while lower-priced listings are more spread out. This information can help in understanding the spatial and economic landscape of Airbnb listings in New York City.
 
