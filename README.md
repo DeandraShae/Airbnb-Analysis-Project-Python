@@ -31,5 +31,5 @@ Future projects will focus on deeper model construction, feature engineering, an
 
 - **data/**: [Airbnb Cleaned Data](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Cleaned_Data.zip)
 - **notebooks/**: [Google Colab Notebook of Full Analysis](https://github.com/DeandraShae/Airbnb-Analysis-Project/blob/main/Airbnb_Project.ipynb)
-- **Full Documentation of EDA and Modeling**: [Notion Documentation](https://www.notion.so/Customer-Segmentation-and-Behavior-Analysis-09ccbf41fc89445c8165980df4e622c0#49f8bcd39e904ba3ac173629f302e323)
+- **Full Documentation of EDA and Modeling**: [Notion Documentation](https://www.notion.so/Customer-Segmentation-and-Behavior-Analysis-09ccbf41fc89445c8165980df4e622c0#49f8bcd39e904ba3ac173629f302e323) [Notion Documentation](https://medium.com/@deandra.carr/airbnb-customer-segmentation-and-behavior-analysis-portfolio-project-654f38a388ea)
 - **README.md**: Project overview and instructions.
