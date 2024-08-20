@@ -14,33 +14,28 @@ This was my first portfolio project, chosen to delve into real-world data and ap
 - **Develop Practical Skills:** Enhance my skills in data cleaning, preprocessing, and exploratory data analysis (EDA).
 - **Apply Advanced Techniques:** Use statistical and machine learning techniques to derive meaningful conclusions.
 
-# **Takeaways from the Project:**
-
-I would have liked to delve deeper into constructing more models and performing more feature engineering. I will focus on these aspects in future projects and use Tableau for visualizations.
-
 # Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Reasoning for Project Choice](#reasoning-for-project-choice)
-3. [Takeaways from the Project](#takeaways-from-the-project)
-4. [Packages and Dependencies](#packages-and-dependencies)
-5. [Data Source and Dataset Description](#data-source-and-dataset-description)
-6. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
-7. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-    - [Univariate Analysis](#univariate-analysis)
-    - [Bivariate Analysis](#bivariate-analysis)
-    - [Geographic Visualization](#geographic-visualization)
-    - [Distribution of Last Review Dates](#distribution-of-last-review-dates)
-8. [Modeling](#modeling)
-    - [Hypothesis: Effect of House Rules on Customer Choice](#hypothesis-effect-of-house-rules-on-customer-choice)
-    - [Hypothesis: Room Type Impact on Availability and Number of Reviews](#hypothesis-room-type-impact-on-availability-and-number-of-reviews)
-9. [Results and Interpretation](#results-and-interpretation)
-10. [Discussion](#discussion)
-11. [Limitations](#limitations)
-12. [Conclusion and Recommendations](#conclusion-and-recommendations)
-13. [Future Work](#future-work)
-14. [References](#references)
-15. [Appendices](#appendices)
+3. [Packages and Dependencies](#packages-and-dependencies)
+4. [Data Source and Dataset Description](#data-source-and-dataset-description)
+5. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
+6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+   - [Univariate Analysis](#univariate-analysis)
+   - [Bivariate Analysis](#bivariate-analysis)
+   - [Geographic Visualization](#geographic-visualization)
+   - [Distribution of Last Review Dates](#distribution-of-last-review-dates)
+7. [Modeling](#modeling)
+   - [Hypothesis: Effect of House Rules on Customer Choice](#hypothesis-effect-of-house-rules-on-customer-choice)
+   - [Hypothesis: Room Type Impact on Availability and Number of Reviews](#hypothesis-room-type-impact-on-availability-and-number-of-reviews)
+8. [Results and Interpretation](#results-and-interpretation)
+9. [Discussion](#discussion)
+10. [Limitations](#limitations)
+11. [Conclusion and Recommendations](#conclusion-and-recommendations)
+12. [Future Work](#future-work)
+13. [References](#references)
+14. [Appendices](#appendices)
     - [Code](#code)
     - [Additional Resources](#additional-resources)
 
